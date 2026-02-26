@@ -76,6 +76,7 @@ CSV をアップロードするだけで、誰でも高度なモデル選択が�
 
 ```bash
 pip install -r requirements.txt
+\\\
 
 その後、Python上のターミナルに次のように打ち込み、実行すれば起動します。
 
