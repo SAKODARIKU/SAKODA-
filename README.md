@@ -1,0 +1,1 @@
+regression_app.pyを起動すれば分析アプリを使用できます
