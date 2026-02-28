@@ -5,6 +5,8 @@ GUI（Streamlit）で簡単に行えるデータ分析支援ツールです。
 
 CSV をアップロードするだけで、誰でも高度なモデル選択ができます。
 
+ベータ版のアプリのurlは下のものです。
+https://zdyz3atpzenwitvjtwj7fy.streamlit.app/
 ---
 
 ## 🚀 機能一覧
