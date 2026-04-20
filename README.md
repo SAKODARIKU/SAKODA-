@@ -13,7 +13,6 @@ https://zdyz3atpzenwitvjtwj7fy.streamlit.app/
 
 ### 🔹 1. データ読み込み
 - CSV ファイルをアップロードしてデータを表示
-- 欠損値の自動処理（X と y の整合性を保つ）
 
 ### 🔹 2. 変数選択（Variable Selection）
 以下の手法から選択可能：
